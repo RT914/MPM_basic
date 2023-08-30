@@ -21,3 +21,5 @@ https://github.com/taichi-dev/taichi
 pip install taichi
 ```
 
+## License
+This project is released under the MIT License.
